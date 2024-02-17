@@ -1,4 +1,4 @@
-<div align="center" size="30">
+<div class="container">
 
 <h1 align="center"><b> Hello, Brayan Yesid Mejia Ortega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
@@ -12,3 +12,9 @@ Estoy constantemente aprendiendo y mejorando mis habilidades para ofrecer soluci
 y desafiando mis límites para alcanzar nuevos niveles de excelencia.
 
 </div>
+
+<style>
+  .container {
+    align:center
+    size:40px
+</style>
