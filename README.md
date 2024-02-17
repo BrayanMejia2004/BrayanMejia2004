@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" size="30">
 
 <h1 align="center"><b> Hello, Brayan Yesid Mejia Ortega </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
