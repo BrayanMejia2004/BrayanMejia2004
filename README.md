@@ -29,12 +29,14 @@ y desafiando mis límites para alcanzar nuevos niveles de excelencia.
   alt="1999AZZAR :: overall Top Langs " /></a>
 </p>
 <p align="center">
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
 alt="1999AZZAR :: Top Langs by repo" />
-<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
+<img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
 alt="1999AZZAR :: Top Langs by commit" />
 </a>
 </p>
+
+<br>
 
 ## <div align="center"> <picture align="center" ><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif?raw=true" width = 50px align="center"> </picture> Tecnologias Aprendidas </div>
 <br>
@@ -90,5 +92,8 @@ alt="1999AZZAR :: Top Langs by commit" />
 
 <br>
 
-
-<h2 align="center">By Brayan Mejia - 18-02-2024</h2>
+<div align="center" width= 35%>
+  
+[![](https://visitcount.itsvg.in/api?id=BrayanMejia2004&icon=3&color=6)](https://visitcount.itsvg.in)
+  
+</div>
