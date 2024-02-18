@@ -6,7 +6,6 @@
 * Estudiante de tecnología en desarrollo de sistemas informáticos
 * Mi último semestre de teconología
 * 20 años de edad. 
-
 * Telefono: 3024550409
 * Correo Electronico: elyesid22@gmail.com
 
