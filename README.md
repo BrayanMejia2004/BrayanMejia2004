@@ -30,3 +30,20 @@ y desafiando mis límites para alcanzar nuevos niveles de excelencia.
 	<a href="https://www.instagram.com/brayan_yesid_22?igsh=NTY2MzR4andwNnYy&utm_source=qr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>	
 </p>
 
+<br>
+
+ 
+## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Estadisticas de GitHub </div>
+<h3>Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanMejia2004&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+  alt="1999AZZAR :: overall Top Langs " /></a>
+</p>
+<p align="center">
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
+alt="1999AZZAR :: Top Langs by repo" />
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
+alt="1999AZZAR :: Top Langs by commit" />
+</a>
+</p>
+
