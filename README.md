@@ -46,7 +46,7 @@ alt="1999AZZAR :: Top Langs by commit" />
 
  <br>
 
- <h3 align="center">Lenguajes De Programación:</h4>	
+ <h3 align="center">Lenguaje Backend:</h4>	
  	<div align="center">
 		<img src="https://skillicons.dev/icons?i=java,kotlin" />
 	</div>
