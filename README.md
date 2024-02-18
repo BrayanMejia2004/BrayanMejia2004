@@ -3,18 +3,16 @@
 
 ## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Información Personal </div>
 
-* Estudiante de tecnología en desarrollo de sistemas informáticos
+* Estudiante de tecnología en desarrollo de sistemas informáticos en [Uniddades Tecnologicas de Santander](https://www.uts.edu.co/sitio/)
 * Mi último semestre de teconología
-* 20 años de edad. 
-* Telefono: 3024550409
+* 20 años de edad
 * Correo Electronico: elyesid22@gmail.com
-
 <br>
 
-## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Sobre Mi </div>
+## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Aspiración </div>
 
 💻 Mi enfoque principal está en convertirme en un desarrollador frontend experto y en dominar el manejo de bases de datos,
-Estoy constantemente aprendiendo y mejorando mis habilidades para ofrecer soluciones innovadoras y eficientes.
+estoy constantemente aprendiendo y mejorando mis habilidades para ofrecer soluciones innovadoras y eficientes.
 
 🌟 Mi objetivo es contribuir al mundo de la tecnología con mi pasión por el desarrollo de software, colaborando en proyectos emocionantes 
 y desafiando mis límites para alcanzar nuevos niveles de excelencia.
