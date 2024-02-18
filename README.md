@@ -18,7 +18,7 @@ estoy constantemente aprendiendo y mejorando mis habilidades para ofrecer soluci
 y desafiando mis límites para alcanzar nuevos niveles de excelencia.
 <br>
 
-## <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Connect with me
+## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Contacta Conmigo </div>
 <p align="center">
 	<a href="mailto:elyesid22@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/BrayanMejia2004"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
