@@ -52,10 +52,11 @@ alt="1999AZZAR :: Top Langs by commit" />
 	</div>
  <br>
 
- <h3 align="center">Framework:</h3>	
- 	<div align="center"
-		<img src="https://skillicons.dev/icons?i=spring" />
+<h3 align="center">Framework:</h4>	
+ 	<div align="center">
+		<img src="https://skillicons.dev/icons?i=spring,bootstrap" />
 	</div>
+ 
  <br>
 
   <h3 align="center">Base De Datos:</h3>
@@ -81,14 +82,13 @@ alt="1999AZZAR :: Top Langs by commit" />
 
 ## <div align="center"> <picture align="center" ><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif?raw=true" width = 60px align="center"> </picture> Contacta Conmigo </div>
 <p align="center">
-	<a href="mailto:elyesid22@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/BrayanMejia2004"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://wa.link/6zxqsi"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-	<a href="><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/brayan_yesid_22?igsh=NTY2MzR4andwNnYy&utm_source=qr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>	
+<a href="mailto:elyesid22@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width = 100px /></a>
+<a href="https://github.com/BrayanMejia2004"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" width = 110px /></a>
+<a href="https://wa.link/6zxqsi"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp" width = 130px /></a>	
+<a href="https://www.instagram.com/brayan_yesid_22?igsh=NTY2MzR4andwNnYy&utm_source=qr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram" width = 130px /></a>	
 </p>
 
 <br>
 
 
-<h3>By Brayan Mejia - 18-02-2024</h3>
+<h2 align="center">By Brayan Mejia - 18-02-2024</h2>
