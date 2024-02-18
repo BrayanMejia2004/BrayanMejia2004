@@ -26,13 +26,13 @@ y desafiando mis límites para alcanzar nuevos niveles de excelencia.
 <h3>Languages</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrayanMejia2004&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
-  alt="1999AZZAR :: overall Top Langs " /></a>
+  alt="BrayanMejia2004 :: overall Top Langs " /></a>
 </p>
 <p align="center">
 <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
-alt="1999AZZAR :: Top Langs by repo" />
+alt="BrayanMejia2004 :: Top Langs by repo" />
 <img width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrayanMejia2004&theme=gruvbox&layout=compact&hide_border=true"
-alt="1999AZZAR :: Top Langs by commit" />
+alt="BrayanMejia2004 :: Top Langs by commit" />
 </a>
 </p>
 
