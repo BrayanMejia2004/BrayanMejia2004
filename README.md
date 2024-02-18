@@ -3,7 +3,7 @@
 
 ## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Información Personal </div>
 
-* Estudiante de tecnología en desarrollo de sistemas informáticos en [Uniddades Tecnologicas de Santander](https://www.uts.edu.co/sitio/)
+* <p size="40"> Estudiante de tecnología en desarrollo de sistemas informáticos en [Uniddades Tecnologicas de Santander](https://www.uts.edu.co/sitio/)</p>
 * Mi último semestre de teconología 👨‍🎓
 * 20 años de edad 💻
 * Colombia, Floridablanca 🖼️
