@@ -4,9 +4,9 @@
 ## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Información Personal </div>
 
 * Estudiante de tecnología en desarrollo de sistemas informáticos en [Uniddades Tecnologicas de Santander](https://www.uts.edu.co/sitio/)
-* Mi último semestre de teconología
-* 20 años de edad
-* Correo Electronico: elyesid22@gmail.com
+* Mi último semestre de teconología 👨‍🎓
+* 20 años de edad 💻
+* Colombia, Floridablanca 🖼️
 <br>
 
 ## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Aspiración </div>
@@ -47,3 +47,10 @@ alt="1999AZZAR :: Top Langs by commit" />
 </a>
 </p>
 
+## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Tecnologias Aprendidas </div>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,java,kotlin,androidstudio,discord,github,mysql,postgres,sqlite" />
+  </a>
+</p>
