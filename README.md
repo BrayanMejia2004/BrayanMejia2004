@@ -8,12 +8,13 @@
 * 20 años de edad 💻
 * Colombia, Bucaramanga 🖼️
   
+* Potafolio: https://master--portafoliobrayanmejia.netlify.app/
+  
 <br>
 
 ## <div align="center"> <picture align="center" ><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px align="center"> </picture> Aspiración </div>
 
-💻 Mi enfoque principal está en convertirme en un desarrollador frontend experto y en dominar el manejo de bases de datos,
-estoy constantemente aprendiendo y mejorando mis habilidades para ofrecer soluciones innovadoras y eficientes.
+💻 Mi enfoque principal está en convertirme en un desarrollador frontend experto, estoy constantemente aprendiendo y mejorando mis habilidades para ofrecer soluciones innovadoras y eficientes.
 
 <br>
 
