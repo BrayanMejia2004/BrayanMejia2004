@@ -5,7 +5,7 @@
 
 * Estudiante de tecnología en desarrollo de sistemas informáticos en [Uniddades Tecnologicas de Santander](https://www.uts.edu.co/sitio/)
 * Mi último semestre de teconología 👨‍🎓
-* 20 años de edad 💻
+* 21 años de edad 💻
 * Colombia, Bucaramanga 🖼️
   
 * Potafolio: https://master--portafoliobrayanmejia.netlify.app/
